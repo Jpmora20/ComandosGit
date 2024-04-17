@@ -1,0 +1,2 @@
+1.git init <directory>
+2.git config user.name <name>
